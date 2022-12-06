@@ -14,6 +14,7 @@ namespace BlazingShop.Shared
         public string EditionName { get; set; }
         public decimal Price { get; set; }
         public string Image { get; set; }
+        public int Quantity { get; set; }
 
 
     }
